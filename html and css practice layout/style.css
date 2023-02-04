@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Roboto&family=Ubuntu+Mono&family=Zilla+Slab&display=swap');
+
+*{
+    margin: 5px;
+    padding: 5px;
+}
+body {
+    background-color: #000000;
+    font-family: 'Zilla Slab', serif;
+}
+
+nav ul li a{
+    
+        font-size: 30px;
+        text-decoration: none;
+        color: #208e16bc;
+        text-shadow:  0 0 1px #fff;
+        /* position: relative;
+        bottom: 0.10em; */
+}
+li {
+    color: #208e16bc;
+    text-shadow:  0 0 1px #fff;
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px 50px;
+   /* position: relative;
+    top: -15em; */
+}
+li:hover {
+    color: #fff;
+}
+nav ul li a:hover{
+       color: #ffffff;
+}
